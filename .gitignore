@@ -1,0 +1,12 @@
+# Ignore data and models
+data/
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Ignore Colab checkpoint files
+.ipynb_checkpoints/
+
+# Ignore outputs
+outputs/
