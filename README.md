@@ -16,5 +16,13 @@ This repo contains my Computer Vision learning journey using **Colab + PyTorch**
 ![Facial Keypoints Detection App](images/facial%20keypoints%20detection.png)
 
 
+### 🧠 FairFace Multi-task Age & Gender Predictor
+- [Link to Notebook](notebooks/Mutitask%20Gender%20and%20Age%20Prediction.ipynb)
+
+- Live demo: [Hugging Face Space](https://huggingface.co/spaces/faranbutt789/Multitask_Gender_and_Age_Classifier)
+
+![Facial Keypoints Detection App](images/age_gender_predict.png)
+
+
 
 
