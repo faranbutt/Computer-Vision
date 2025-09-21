@@ -24,5 +24,11 @@ This repo contains my Computer Vision learning journey using **Colab + PyTorch**
 ![Facial Keypoints Detection App](images/age_gender_predict.png)
 
 
+### 🦠 Malaria Detection with Grad-CAM
 
+- [Link to Notebook](notebooks/malaria-detection-grad-cam.ipynb)
 
+- Live demo: [Hugging Face Space](https://huggingface.co/spaces/faranbutt789/Malaria-CAM)
+
+![MalariaCAM](images/malariacam1.png)
+![MalariaCAM](images/malariacam2.png)
