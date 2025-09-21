@@ -5,9 +5,9 @@ This repo contains my Computer Vision learning journey using **Colab + PyTorch**
 
 ## 📂 Projects
 
-### Cats vs Dogs Classification
+### Cats🐱 vs Dogs🐶 Classification
 - [Link to Notebook](notebooks/Transfer_Learning_VGG_16.ipynb)  
-![Cats and Dogs Accuracy](images/catsdogsaccuracy.png)
+
 
 
 ### Facial Keypoints Detection
