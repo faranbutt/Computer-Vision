@@ -35,3 +35,9 @@ This repo contains my Computer Vision learning journey using **Colab + PyTorch**
 ![MalariaCAM](images/malariacam1.png)
 ![MalariaCAM](images/malariacam2.png)
 ![MalariaCAM](images/gradcam3.png)
+
+
+### 🚦 Traffic Sign Classifier
+
+- [Link to Notebook](notebooks/TrafficSignNet.ipynb)
+![TrafficNet](images/Traffic%20sign%20classifier.png)
