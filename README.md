@@ -40,4 +40,7 @@ This repo contains my Computer Vision learning journey using **Colab + PyTorch**
 ### 🚦 Traffic Sign Classifier
 
 - [Link to Notebook](notebooks/TrafficSignNet.ipynb)
+
+- Live demo: [Hugging Face Space](https://huggingface.co/spaces/faranbutt789/TrafficSignNet)
+
 ![TrafficNet](images/Traffic%20sign%20classifier.png)
